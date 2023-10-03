@@ -11,8 +11,12 @@
             "id": "8d48594b99291038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "8d48594b99291038",
   "lastOpenFiles": [
+    "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Classification of Attacks.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Motives, Goals, and Objectives of Information Security Attacks.md",
-    "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Classification of Attacks.md",
+    "Untitled.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview",
     "Module 1, Introduction to Ethical Hacking"
   ]
