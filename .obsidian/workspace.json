@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,8 +149,8 @@
   },
   "active": "8d48594b99291038",
   "lastOpenFiles": [
-    "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Classification of Attacks.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Elements of Information Security.md",
+    "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Classification of Attacks.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview/Motives, Goals, and Objectives of Information Security Attacks.md",
     "Untitled.md",
     "Module 1, Introduction to Ethical Hacking/Chapter 1, Information Security Overview",
